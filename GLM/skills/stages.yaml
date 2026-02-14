@@ -1,0 +1,23 @@
+default:
+  - ASR
+  - LLM
+  - TTS
+  - VLM
+  - docx
+  - finance
+  - front-design
+  - image-generation
+  - pdf
+  - pptx
+  - video-generation
+  - video-understand
+  - web-reader
+  - web-search
+  - xlsx
+
+qingyan_writing:
+  - gift-evaluator
+  - podcast-generate
+  - story-video-generation
+  - get-fortune-analysis
+  - tarot
